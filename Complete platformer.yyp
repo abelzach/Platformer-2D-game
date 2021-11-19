@@ -22,6 +22,7 @@
     {"id":{"name":"s_Player","path":"sprites/s_Player/s_Player.yy",},"order":0,},
     {"id":{"name":"oLevelEnd","path":"objects/oLevelEnd/oLevelEnd.yy",},"order":8,},
     {"id":{"name":"Shader1","path":"shaders/Shader1/Shader1.yy",},"order":0,},
+    {"id":{"name":"Screen_Shake","path":"scripts/Screen_Shake/Screen_Shake.yy",},"order":1,},
     {"id":{"name":"sTrigger","path":"sprites/sTrigger/sTrigger.yy",},"order":11,},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},"order":6,},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},"order":4,},
